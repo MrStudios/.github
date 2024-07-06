@@ -3,7 +3,7 @@ Welcome to the MrStudios Industries GitHub profile. In brief, we specialize in d
 
 ## 💻 Used Technologies
 
-<div style="text-align: center;">
+<div align="center">
 
 ![MySQL](../assets/img/technologies/mysql.svg)
 ![Redis](../assets/img/technologies/kafka.svg)
@@ -15,9 +15,9 @@ Welcome to the MrStudios Industries GitHub profile. In brief, we specialize in d
 </div>
 
 ## ☎️ Contact
-<div style="text-align: center;">
+<div align="center">
 
-## Discord Server
+### Discord Server
 ![Discord](https://discord.com/api/guilds/908864960698921000/widget.png?style=banner2)
 
 </div>
