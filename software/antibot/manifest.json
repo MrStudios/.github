@@ -1,10 +1,10 @@
 {
   "name": "AntiBot",
-  "author": "MrStudios Industries (www.mrstudios.pl)",
-  "version": "2.3.3",
+  "author": "eversi.de solutions (www.eversi.de) [formerly MrStudios Industries (www.mrstudios.pl)]",
+  "version": "2.3.4",
   "keys": [
     {
-      "name": "Software Decryption Key",
+      "name": "Software Decryption Key (versions under v2.2.0)",
       "cryptography": "AES (256 bit)",
       "encryption": "Bit Shift (Pattern Three)",
       "bytes": [
